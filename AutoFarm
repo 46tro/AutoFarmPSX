@@ -1,2 +1,1 @@
-_G.Username = 46tro
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/46tro/AutoFarmPSX/main/AutoFarm"))()
